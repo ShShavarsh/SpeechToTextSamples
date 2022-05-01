@@ -1,3 +1,0 @@
-from youtube_transcript_api import YouTubeTranscriptApi
-
-print(YouTubeTranscriptApi.get_transcript("H62Jfv1DJlU&ab_channel=CodingwithJohn"))
